@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kanishka213/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/kanishka213/LeetCode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kanishka213/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/kanishka213/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kanishka213/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/kanishka213/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kanishka213/LeetCode-Problems/tree/master/0136-single-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kanishka213/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
